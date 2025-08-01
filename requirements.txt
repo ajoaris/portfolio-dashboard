@@ -3,4 +3,3 @@ yfinance
 pandas
 datetime
 requests
-xml.etree.ElementTree
